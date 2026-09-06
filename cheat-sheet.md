@@ -5,6 +5,7 @@ Everything worth holding in your head the hour before the exam, on one page. Fac
 [![Claude Certified Associate – Foundations cheat sheet: exam facts, domain weights, and the rules that decide questions](../.github/assets/cheat-sheet-associate-foundations.png)](../.github/assets/cheat-sheet-associate-foundations.png "View this cheat sheet at full size")
 
 Save or share the card above; the full sheet follows.
+https://claude-foundations-practice-soham.rohitdan.chatgpt.site/
 
 ## The exam
 
