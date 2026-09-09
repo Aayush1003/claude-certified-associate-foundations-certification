@@ -24,6 +24,8 @@ Registration requires a partner company email address recognized in the Claude P
 
 The certification is intended for professionals who use Claude as a productivity tool in roles such as operations, marketing, project management, education, communications, and consulting. Candidates sit between casual prompt users and technical practitioners: they translate business objectives into effective Claude interactions, evaluate generated content critically, and know when human review or escalation is required.
 
+For lesson-by-lesson preparation, use the original [course study material](study-material/README.md), organized around the eight prep-course modules.
+
 It is not intended for software developers building against APIs or designing agentic systems. That scope belongs to the [Developer](../developer-foundations/README.md) and [Architect](../architect-foundations/README.md) certifications.
 
 ## Recommended experience

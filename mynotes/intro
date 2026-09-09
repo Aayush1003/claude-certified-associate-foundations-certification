@@ -1,0 +1,67 @@
+# Claude Certified Associate – Foundations
+
+## Quick study summary
+This certification is about using Claude as a practical business productivity tool. It tests whether you can choose the right workflow, write strong prompts, validate output carefully, and use AI responsibly in real work.
+
+## Exam mindset
+- Claude is not just a chatbot; it is a decision-support tool for work.
+- The quality of results depends on setup before prompting: entry point, features, model, and context.
+- Good output is not accepted just because it sounds confident.
+- Human judgment is still required for final review, sensitive data, and high-risk decisions.
+
+## Most important exam domains
+### 1) Output Evaluation and Validation (highest weight)
+- Check facts, numbers, names, dates, citations, and claims before trusting them.
+- Treat AI output as a draft that must be verified.
+- Look for hallucinations, missing context, biased framing, and weak reasoning.
+- Use a source-of-truth check before relying on information in final work.
+
+### 2) Workflow Integration and Solution Design
+- Decide which tasks should be automated and which should remain with humans.
+- Create repeatable workflows instead of one-off prompts.
+- Move from “I use Claude” to “our team uses Claude in a process.”
+
+### 3) Governance, Risk, and Responsible Use
+- Protect sensitive or regulated information.
+- Do not upload personal, confidential, or legal data unless approved.
+- Know when AI use is inappropriate even if the tool can do it.
+
+### 4) Prompting and Task Execution
+- Use structure: role, task, context, constraints, and expected output.
+- Break large tasks into smaller steps.
+- Iterate based on weak output and improve one thing at a time.
+
+## Model and feature selection
+- Haiku: fastest and cheapest, good for simpler or high-volume work
+- Sonnet: balanced choice for everyday tasks
+- Opus: strongest reasoning, but slower and more expensive
+
+Useful features:
+- Projects: persistent instructions and context
+- Artifacts: documents or structured outputs
+- Research mode: better for sourced information tasks
+- Plain chat: fast, simple work with low context needs
+
+## Configuration and knowledge management
+- Keep project instructions clear, concise, and updated.
+- Use knowledge sources to give Claude the right background information.
+- Avoid re-pasting long context every time when project memory can be reused.
+
+## Troubleshooting and optimization
+- Diagnose the root cause before changing the prompt.
+- Common issues: weak context, confusing instructions, wrong model, or wrong feature.
+- Optimize for speed, cost, and quality without sacrificing correctness.
+
+## Exam-day reminder
+- Closed book
+- 60 questions
+- 120 minutes
+- Passing score is 720 on a 1000-point scale
+- Focus on judgment, not memorizing random facts
+
+## Best one-line rule
+Right task + right tool + right context + right validation = better Claude output.
+
+## Final notes
+The exam is designed for business users and knowledge workers who can translate real tasks into reliable AI-assisted workflows. The biggest skill is not “writing fancy prompts,” but making good decisions about when, how, and how carefully to use Claude.
+
